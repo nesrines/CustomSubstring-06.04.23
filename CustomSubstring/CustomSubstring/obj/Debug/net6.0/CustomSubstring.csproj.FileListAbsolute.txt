@@ -1,0 +1,15 @@
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\bin\Debug\net6.0\CustomSubstring.exe
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\bin\Debug\net6.0\CustomSubstring.deps.json
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\bin\Debug\net6.0\CustomSubstring.runtimeconfig.json
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\bin\Debug\net6.0\CustomSubstring.dll
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\bin\Debug\net6.0\CustomSubstring.pdb
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.dll
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\refint\CustomSubstring.dll
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.pdb
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\CustomSubstring.genruntimeconfig.cache
+C:\Users\Atilla\source\repos\CustomSubstring\CustomSubstring\obj\Debug\net6.0\ref\CustomSubstring.dll
