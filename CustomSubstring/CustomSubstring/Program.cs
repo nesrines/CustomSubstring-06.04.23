@@ -12,18 +12,18 @@ try
     string Str = Console.ReadLine();
     Console.WriteLine("Enter start index:");
     int StartIndex = int.Parse(Console.ReadLine());
-    Console.WriteLine("Enter end index:");
+    Console.WriteLine("Enter length:");
     int Length = int.Parse(Console.ReadLine());
-
+        
     try
     {
-        string Result = CustomSubstring(Str, StartIndex, Length);
-        Console.WriteLine(Result);
+            string Result = CustomSubstring(Str, StartIndex, Length);
+            Console.WriteLine(Result);
     }
-
+        
     catch (Exception)
     { Console.WriteLine("There is no such index in your string."); }
 }
 
 catch (Exception)
-{ Console.WriteLine("Index must be a number."); }
+{ Console.WriteLine("Index and Length must be in 'int' format."); }
